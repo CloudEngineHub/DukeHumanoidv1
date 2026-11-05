@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: If you use this robot or code, please cite the paper below.
+title: "The Duke Humanoid: Design and Control for Energy-Efficient Bipedal Locomotion Using Passive Dynamics"
+type: software
+authors:
+  - family-names: Xia
+    given-names: Boxi
+  - family-names: Li
+    given-names: Bokuan
+  - family-names: Lee
+    given-names: Jacob
+  - family-names: Scutari
+    given-names: Michael
+  - family-names: Chen
+    given-names: Boyuan
+license: MIT
+url: https://github.com/generalroboticslab/DukeHumanoidv1
+repository-code: https://github.com/generalroboticslab/DukeHumanoidv1
+identifiers:
+  - type: url
+    value: https://arxiv.org/abs/2409.19795
+    description: arXiv preprint (arXiv:2409.19795)
+preferred-citation:
+  type: conference-paper
+  title: "The Duke Humanoid: Design and control for energy-efficient bipedal locomotion using passive dynamics"
+  authors:
+    - family-names: Xia
+      given-names: Boxi
+    - family-names: Li
+      given-names: Bokuan
+    - family-names: Lee
+      given-names: Jacob
+    - family-names: Scutari
+      given-names: Michael
+    - family-names: Chen
+      given-names: Boyuan
+  collection-title: "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+  publisher:
+    name: IEEE
+  start: 6579
+  end: 6586
+  year: 2025
